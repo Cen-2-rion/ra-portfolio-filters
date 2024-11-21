@@ -1,0 +1,35 @@
+#root {
+  max-width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+.toolbar {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 15px;
+  padding: 5px 15px;
+  border: 1px solid #585858a0;
+  cursor: pointer;
+}
+
+button.active, button:hover {
+  background-color: #585858;
+  color: white;
+  transition: color 0.2s ease;
+}
+
+.projects {
+  column-count: 3;
+  column-gap: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 5px;
+}
