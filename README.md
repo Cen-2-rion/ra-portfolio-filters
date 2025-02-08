@@ -1,7 +1,7 @@
-# Домашнее задание к занятию "1.1. Портфолио с фильтрами"
-
+# Домашнее задание к занятию "2.1. Портфолио с фильтрами"
+[![Netology React](https://github.com/Cen-2-rion/ra-portfolio-filters/actions/workflows/web.yml/badge.svg?branch=main)](https://github.com/Cen-2-rion/ra-portfolio-filters/actions/workflows/web.yml)
 ## Ссылка на Github Pages
-
+https://cen-2-rion.github.io/ra-portfolio-filters/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
