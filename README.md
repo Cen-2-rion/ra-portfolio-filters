@@ -1,3 +1,7 @@
+# Домашнее задание к занятию "1.1. Портфолио с фильтрами"
+
+## Ссылка на Github Pages
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
